@@ -219,10 +219,3 @@ ax.bar(bar_positions, bar_heights, 0.5)
 ax.set_xticks(tick_positions)
 ax.set_xticklabels(recent_grads["Major"][163:172], rotation = 90.0)
 pyplot.show()
-
-
-# In[ ]:
-
-
-
-
